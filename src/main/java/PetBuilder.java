@@ -17,7 +17,7 @@ public class PetBuilder {
      * @return referencja w stylu fluent api
      */
     public PetBuilder setName(String name){
-        result.setName(name);
+        this.result.setName(name);
         return this;
     }
 
