@@ -50,9 +50,6 @@ public class CalculatorParameterizedTests {
 
     private Object[] getFibonaciData(){
         return new Object[]{
-                new Object[]{0,0},
-                new Object[]{1,1},
-                new Object[]{2,1},
                 new Object[]{3,2},
                 new Object[]{4,3},
                 new Object[]{5,5},
